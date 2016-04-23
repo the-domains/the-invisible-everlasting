@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'I’m a Christian, and specifically by that I mean: '
-datePublished: '2016-04-23T09:00:09.971Z'
-dateModified: '2016-04-23T08:59:58.937Z'
+datePublished: '2016-04-23T09:02:02.113Z'
+dateModified: '2016-04-23T09:00:11.840Z'
 title: My core beliefs
 author: []
+sourcePath: _posts/2016-04-23-my-core-beliefs.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-my-core-beliefs.md
-published: true
 url: my-core-beliefs/index.html
 _type: Article
 
