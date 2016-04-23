@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Valuing and responding to the eternal]]></title>
         <description><![CDATA[Valuing and responding to the eternal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-invisible-everlasting/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 07:11:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 07:24:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-invisible-everlasting/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The only thing that counts is..]]></title>
-            <description><![CDATA[<article><h1>The only thing that counts is..</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb3e38cb-7658-40fa-90e7-03db3528c436.jpg"></article>]]></description>
-            <link>undefinedthe-only-thing-that-counts-is/index.html</link>
+            <title><![CDATA[And the only thing that counts is?]]></title>
+            <description><![CDATA[<article><h1>And the only thing that counts is?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/288dc85d-9aa5-4629-89aa-0d896fc54ae3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-invisible-everlasting/the-only-thing-that-counts-is/index.html</link>
             <guid isPermaLink="false">efd1938d-c057-4de6-a9cb-d97a3156720b</guid>
-            <pubDate>Sat, 23 Apr 2016 07:11:42 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2016 07:24:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
