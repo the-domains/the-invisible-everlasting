@@ -1,6 +1,6 @@
-name: the-invisible-everlasting
+name: The Invisible Everlasting
 favicon: null
-layout_spectrum: 0.6937901482451707
+layout_spectrum: 0.05145
 typography_spectrum: 0.16450134431943297
 title: Valuing and responding to the eternal
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#090000'
+    - '#5b4a44'
+    - '#c1d1d9'
+    - '#52c0ec'
+    - '#967959'
   brandStrength: 0.9409990848507732
   lightness: 0.17180708120577037
   saturation: 0.789558372925967
